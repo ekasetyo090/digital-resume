@@ -116,7 +116,7 @@ st.markdown('''
 ''')
 txt3('Programming', '`Python`, `C`')
 txt3('Database Management', '`SQLite3`')
-txt3('Data Processing/Wrangling', '`SQL`, `Pandas`, `Numpy`')
+txt3('Data Processing/Wrangling', '`SQL`, `Pandas`, `Numpy`,`Jupyter Notebook`')
 txt3('Data Visualization', '`Matplotlib`, `Seaborn`, `Plotly`')
 txt3('Machine Learning', '`Scikit-learn`')
 txt3('Deep Learning', '`TensorFlow`')
@@ -179,7 +179,7 @@ txt('**Bachelors of Fisheries** (Fishery Resource Utilization)', 'August 2019 - 
 txt('*Dr. Soetomo University*, Surabaya','')
 st.markdown('''
 - GPA: `3.51`
-- Graduated With Honors
+- Graduated With Honors.
 - [Thesis](https://drive.google.com/file/d/1_HriEBz6xgsUHyh3UsUyDHbyEmVh1OhR/view), 
             [Transcript](https://drive.google.com/file/d/1fK-REXaxIT8MGfuHb_sx7vGZhOZMYSkQ/view), 
             [Certificate](https://drive.google.com/file/d/1B-lZKMDnPBAr48-tibnMDBWZzs8OSEbd/view)
@@ -189,7 +189,7 @@ txt('**Diplomas of Fisheries** (Fishery Product Processing)','August 2016 - Augu
 txt('*Sidoarjo Polytechnic of Marine and Fisheries*, Sidoarjo','')
 st.markdown('''
 - GPA: `3.32`
-- Received An Grade `A` For Final Project
+- Received An Grade `A` For Final Project.
 - [Final Project](https://drive.google.com/file/d/17ZysIYN1OeJPKPKuGTj9HZ9WjMgkT6TF/view), 
             [Transcript](https://drive.google.com/file/d/18WWHZD9xqdxN9_-ztwJbtDS0QBi4JBX9/view), 
             [Certificate](https://drive.google.com/file/d/1Ofb4dXEfJzTqiSJqnojpjjDAp8n13z2D/view)
@@ -233,7 +233,6 @@ st.markdown('''
             [House Pricing Analysis](https://colab.research.google.com/drive/1JcWQy0mOBEGduphTRc5DjjW29cRxEvja?usp=sharing), 
             [Game Prediction](https://colab.research.google.com/drive/17C8MEJV4fj7cYLTyPob_DJVZDzxgQoZS?usp=sharing), 
             [Stock Market Prediction](https://colab.research.google.com/drive/1n6M7o4w_yu5bAU45j0OC0sQF-wLdEtsP?usp=sharing)
-
 - [Certificate](https://drive.google.com/file/d/1sFq3wdeFB0MG7AzHg2rF5qnYFx5963lF/view), 
             [Transcript](https://drive.google.com/file/d/1rrSiN_9vlSdUhIwv5A--dM1No9nm2Wun/view)
 ''')
