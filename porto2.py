@@ -2,6 +2,43 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 from PIL import Image
 
+
+st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
+
+st.markdown("""
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #A0E9FF;">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#eka-setyo-agung-mahanani-s-pi" style="color: #427D9D;">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#skills" style="color: #427D9D;">Skills</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#experience" style="color: #427D9D;">Experience</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#education" style="color: #427D9D;">Education</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#courses" style="color: #427D9D;">Courses</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#project" style="color: #427D9D;">Project</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#social-media" style="color: #427D9D;"">Social Media</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+""", unsafe_allow_html=True)
+
+
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
@@ -36,40 +73,7 @@ to data-driven projects and contribute to a dynamic work environment.
 #####################
 # Navigation
 
-st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
 
-st.markdown("""
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link disabled" href="#eka-setyo-agung-mahanani-s-pi">Home <span class="sr-only">(current)</span></a>
-      </li>
-            <li class="nav-item">
-        <a class="nav-link" href="#skills">Skills</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#experience">Experience</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#education">Education</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#courses">Courses</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#project">Project</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#social-media">Social Media</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-""", unsafe_allow_html=True)
 
 #####################
 # Custom function for printing text
