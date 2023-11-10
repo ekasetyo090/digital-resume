@@ -22,17 +22,15 @@ honors. My academic background has provided me with a robust foundation in data 
 learning, and technical analysis, complemented by a versatile skill set that includes proficiency in SQL,
 Python, Pandas, NumPy, and Jupyter Notebook.
         
-During my academic journey, I developed my analytical thinking and data processing skills, preparing me for
-a career in data analysis. My practical experience includes a valuable internship in Wastewater Treatment,
-where I conducted water quality assessments and focused on liquid waste treatment. In my spare time, I also
-engaged in technical analysis writing, where I produced financial market forecasts.
-        
-Additionally, I have actively pursued further education, completing courses in data science, machine learning,
-and programming, including Data Science from Kelas.work and Dicoding, as well as CS50X from Harvard
-University. I am dedicated to continuous learning. I am eager to embark on a career as a Data Analyst, with
-the goal of bringing my academic achievements and fresh perspective to add value to data-driven projects
-and contribute to a dynamic work environment.
+During my academic journey, I developed my analytical thinking and data processing skills, 
+preparing me for a career in data analysis. In my spare time, I also engaged in technical analysis writing, 
+where I produced financial market forecasts. 
 
+Additionally, I have actively pursued further education, completing courses in data science, machine learning, 
+and programming, including Data Science from Kelas.work and Dicoding, as well as CS50X from Harvard University. 
+I am dedicated to continuous learning. I am eager to embark on a career as a Data Analyst, 
+with the goal of bringing my academic achievements and fresh perspective to add value 
+to data-driven projects and contribute to a dynamic work environment.
 ''')
 
 #####################
