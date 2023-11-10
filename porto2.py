@@ -251,7 +251,7 @@ st.markdown('''
 st.markdown('''
 ## Project
 ''')
-txt4('Hololive(ID-3) Fans Dashboard', 'A data app for studiying talent performance base on their performance', 'https://hololiveid3-fan-dashboard.streamlit.app/')
+txt4('Hololive(ID-3) Fans Dashboard', 'A data app for studiying talent performance base on their statistics', 'https://hololiveid3-fan-dashboard.streamlit.app/')
 
 
 #####################
